@@ -6,7 +6,7 @@
 - <b>FIle and Folder Permissions (Server Manager)</b>
 - <b>OS Security Theories and Concepts PP </b>
 - <b>Simple Elastic SIEM Lab</b>
-- <b>SQL Back Up and Recorery</b>
+- <b>SQL - Database Back Up and Recorery</b>
 
 <h2> Certifications </h2>
 
