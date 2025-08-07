@@ -9,10 +9,8 @@ I'm currently earning a degree in **Information Technology** with an emphasis in
 ---
 
 ###  Featured Projects
-- **Simple Elastic SIEM Lab** – Created an ELK-based threat detection dashboard to monitor suspicious events.
-- **VPN Configuration Lab** – Designed a secure VPN topology using Cisco Packet Tracer.
-- **File & Folder Permissions Project** – Configured Windows Server permissions to reinforce access controls.
-- **SQL Backup & Recovery** – Implemented backup and recovery techniques for secure database management.
+- **Secure Cybersecurity Sandbox** - Set up a sandboxed environment using VirtualBox, Kali Linux, and Metasploitable 1 & 2 for ethical hacking and testing.
+- **Wireshark network analysis** - This lab demonstrates the use of **Wireshark** for capturing and analyzing network traffic in a virtualized lab environment.
 
 ---
 
